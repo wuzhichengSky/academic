@@ -1,0 +1,9 @@
+# ===== 模型权重 =====
+*.pt
+*.pth
+*.ckpt
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.env
